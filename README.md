@@ -1,4 +1,4 @@
-![Consumo optimizando]([ruta/a/la/imagen.png](https://github.com/Lorevalles/Proyecto_Prius/commit/8e7c69610af29e7e91c2783533660b488c884d28))
+![Consumo optimizando](IMG_2563.JPG)
 
 Proyecto Prius: Conversión a Híbrido Enchufable
 Introducción
