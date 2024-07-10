@@ -1,10 +1,23 @@
 ## Imágenes del proyecto
 
-![Consumo optimizando](Imagenes_Resultados/IMG_3211.JPG)
-![Repostado con 311 Kilometros](Imagenes_Resultados/IMG_3098.JPG)
-![Resultado de un ciclo de conducción](Imagenes_Resultados/IMG_2972.JPG)
+<img src="Imagenes_Resultados/IMG_3211.JPG" alt="Consumo optimizando" width="300"/>
+Repostado lleno.
+<img src="Imagenes_Resultados/IMG_3098.JPG" alt="Repostado con 311 Kilometros" width="300"/>
+Ciclo de 160 Kilómetros.
+<img src="Imagenes_Resultados/IMG_2972.JPG" alt="Resultado de un ciclo de conducción" width="300"/>
+DATOS PANTALLA:
 
+SOC: Estado de carga de la batería EV, indicando la capacidad estimada. El 30.0% muestra la capacidad restante.
+3,750: Valor medio de las celdas de litio en voltios.
+N 25%: Capacidad estimada restante de la batería.
+V: 225: Voltaje total de la batería.
+Con: Consumo eléctrico.
+Reg: Energía regenerada.
+Capacidad de la batería: 21.6 kW, cargada al 96% con descarga limitada al 25%.
+T: Temperatura del motor de combustión.
+RM: Revoluciones del motor.
 
+    
 Proyecto Prius: Conversión a Híbrido Enchufable
 Introducción
 Este proyecto busca transformar un Toyota Prius en un vehículo híbrido enchufable mediante pruebas de laboratorio y modificaciones técnicas específicas.
