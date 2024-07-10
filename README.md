@@ -1,8 +1,8 @@
 ## Imágenes del proyecto
 
-![Consumo optimizando](IMG_3211.JPG)
-![Repostado con 311 Kilometros](IMG_3098.JPG)
-![Resultado de un ciclo de conducción](IMG_2972.JPG)
+![Consumo optimizando](Imagenes_Resultados/IMG_3211.JPG)
+![Repostado con 311 Kilometros](Imagenes_Resultados/IMG_3098.JPG)
+![Resultado de un ciclo de conducción](Imagenes_Resultados/IMG_2972.JPG)
 
 
 Proyecto Prius: Conversión a Híbrido Enchufable
