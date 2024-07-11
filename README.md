@@ -109,5 +109,6 @@ En ambas versiones, he dispuesto las baterías en módulos de 20S para minimizar
 - <a href="https://es.aliexpress.com/item/32888169005.html?spm=a2g0o.order_list.order_list_main.5.2646194dvNHbQR&gatewayAdapt=glo2esp" target="_blank">1 KG de níquel puro 0.8x28 mm</a>
 - <a href="https://amzn.eu/d/0dBJseQr" target="_blank">Rollo de Tira de níquel Puro de 5 Metros 99,96%</a>
 - <a href="https://amzn.eu/d/0fjSk76k" target="_blank">GLITTER 801D Soldador por Puntos a Batería con Condensador de Energía de 12 KW</a>
+- <a href="https://oshwlab.com/lorenzovv/limitador-de-carga-para-bater-as-3" target="_blank">controlador de carga de baterías</a>
 
 
