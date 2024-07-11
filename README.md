@@ -110,7 +110,7 @@ Se abren por DEFECTO en ésta misma ventan, puedes abrirla en una nueva, con la 
 
 - [Medidas de seguridad para la manipulación de baterías](https://github.com/Lorevalles/Proyecto_Prius/blob/main/Seguridad.md)
 - [Baterías recicladas de alta calidad](mailto:lorenzovv@gmail.com)
-- [Procedimiento de adaptación de baterías](https://en_espera.com/procedimiento-adaptacion)
+- [Procedimiento de adaptación de baterías]([https://en_espera.com](https://github.com/Lorevalles/Proyecto_Prius/blob/main/Procedimiento.md)/procedimiento-adaptacion)
 - [Tiras níquel 0.1x5x25mm](https://es.aliexpress.com/item/33007254474.html?spm=a2g0o.order_list.order_list_main.15.2646194dvNHbQR&gatewayAdapt=glo2esp)
 - [0.5 KG Tira de níquel puro 0.2x8 mm](https://es.aliexpress.com/item/32919726235.html?spm=a2g0o.order_list.order_list_main.10.2646194dvNHbQR&gatewayAdapt=glo2esp)
 - [1 KG de níquel puro 0.8x28 mm](https://es.aliexpress.com/item/32888169005.html?spm=a2g0o.order_list.order_list_main.5.2646194dvNHbQR&gatewayAdapt=glo2esp)
