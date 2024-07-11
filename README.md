@@ -127,6 +127,8 @@ Se abren por DEFECTO en ésta misma ventan, puedes abrirla en una nueva, con la 
 - [Arduino Due A000062](https://amzn.eu/d/0692ajdh)
 - [Arduino Nano Every Single Board](https://amzn.eu/d/08zz2bVv)
 - [Arduino UNO R4 Minima ABX00080 ](https://amzn.eu/d/0im1xDsN)
+- [Arduino Nano A000005](https://amzn.eu/d/0dPSi0jP)
+- [Controlador Nano Micro USB 3,0](https://es.aliexpress.com/item/1005002976480289.html?spm=a2g0o.order_list.order_list_main.509.1b3e194du39PzE&gatewayAdapt=glo2esp)
 - [SN65HVD230 Can Board, CUIDADO hay otro más barato parece igual y sólo recibe](https://amzn.eu/d/016IDlav)
 - [Modulo Relay 5V 1-Canal](https://amzn.eu/d/0ia9llHN)
 - [ADS1115 ADC 16bit 4 Canales](https://amzn.eu/d/0fTRFyMB)
