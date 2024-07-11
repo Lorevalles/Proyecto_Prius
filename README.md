@@ -92,6 +92,11 @@ Ciclo de 160 Kilómetros.
 8. **T:** Temperatura del motor de combustión.
 9. **RM:** Revoluciones del motor.
 
+### Circuitos electrónicos
+- [Controlador de carga de baterías](https://oshwlab.com/lorenzovv/limitador-de-carga-para-bater-as-3)
+- [Alterador de la señal analógica de la batería de alto voltaje EV EN LA ÚLTIMA VERSIÓN YA NO ES NECESARIO.](https://oshwlab.com/lorenzovv/alteraci-n-sensor-intensidad-corecci-n)
+- [Simulador de Presencia de Batería EV](https://oshwlab.com/lorenzovv/simulacion-de-bateria-prius)
+  
 ## Lista de Materiales y Enlaces
 
 ### Baterías:
@@ -102,15 +107,16 @@ En ambas versiones, he dispuesto las baterías en módulos de 20S para minimizar
 
 ### Enlaces 
 Se abren por DEFECTO en ésta misma ventan, puedes abrirla en una nueva, con la oreja derecha del ratón.
+
+- [Medidas de seguridad para la manipulación de baterías](https://github.com/Lorevalles/Proyecto_Prius/blob/main/Seguridad.md)
 - [Baterías recicladas de alta calidad](mailto:lorenzovv@gmail.com)
 - [Procedimiento de adaptación de baterías](https://en_espera.com/procedimiento-adaptacion)
-- [Medidas de seguridad para la manipulación de baterías](https://github.com/Lorevalles/Proyecto_Prius/blob/main/Seguridad.md)
 - [Tiras níquel 0.1x5x25mm](https://es.aliexpress.com/item/33007254474.html?spm=a2g0o.order_list.order_list_main.15.2646194dvNHbQR&gatewayAdapt=glo2esp)
 - [0.5 KG Tira de níquel puro 0.2x8 mm](https://es.aliexpress.com/item/32919726235.html?spm=a2g0o.order_list.order_list_main.10.2646194dvNHbQR&gatewayAdapt=glo2esp)
 - [1 KG de níquel puro 0.8x28 mm](https://es.aliexpress.com/item/32888169005.html?spm=a2g0o.order_list.order_list_main.5.2646194dvNHbQR&gatewayAdapt=glo2esp)
 - [Rollo de Tira de níquel Puro de 5 Metros 99,96%](https://amzn.eu/d/0dBJseQr)
 - [GLITTER 801D Soldador por Puntos a Batería con Condensador de Energía de 12 KW](https://amzn.eu/d/0fjSk76k)
-- [Controlador de carga de baterías](https://oshwlab.com/lorenzovv/limitador-de-carga-para-bater-as-3)
-- [Alterador de la señal analógica de la batería de alto voltaje EV EN LA ÚLTIMA VERSIÓN YA NO ES NECESARIO.](https://oshwlab.com/lorenzovv/alteraci-n-sensor-intensidad-corecci-n)
-- [Simulador de Presencia de Batería EV](https://oshwlab.com/lorenzovv/simulacion-de-bateria-prius)
+
+### Otros materiales
+
 
