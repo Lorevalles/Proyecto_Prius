@@ -99,6 +99,23 @@ drawCurrentIcon, drawThrottleBar, drawBatteryIcon, dibujarNivelCarga: Funciones 
 calcularCargaModuloBat: Calcula el porcentaje de carga de un módulo de batería basado en su voltaje.
 processCanMessage: Procesa mensajes CAN recibidos y actualiza variables globales.
 activaEv: Gestiona la activación del modo EV basado en mensajes CAN y condiciones del vehículo.
+# Lista de Materiales y Enlaces
+
+## Baterías:
+Las baterías utilizadas en este proyecto son unidades recicladas, procedentes de fábricas que las han desechado debido a modificaciones en sus líneas de fabricación. En principio, estas baterías no han sido instaladas nunca en ningún vehículo, por lo que su estado de uso es excelente, prácticamente como nuevas.
+Es importante destacar que resulta difícil conseguir siempre los mismos modelos de baterías, debido a los cambios en las series de fabricación. Si necesitas baterías específicas, por favor envíame un [correo electrónico](mailto:lorenzovv@gmail.com) para verificar las que podemos conseguir y las posibilidades de adaptación.
+Para que tengas una idea, la adaptación de cada una de las tres baterías que he utilizado en la versión V2 ha requerido aproximadamente 180 horas de dedicación. Además, es crucial tener en cuenta el riesgo de cortocircuitos de alta intensidad. Por ello, debes idear un procedimiento adecuado para reducir los riesgos.
+En ambas versiones, he dispuesto las baterías en módulos de 20S para minimizar riesgos y costes de fabricación.
+
+## Enlaces:
+- [Baterías recicladas de alta calidad](mailto:lorenzovv@gmail.com)
+- [Procedimiento de adaptación de baterías](https://en_espera.com/procedimiento-adaptacion)
+- [Medidas de seguridad para la manipulación de baterías](https://images.app.goo.gl/rugSroTajMnXxNb58)
+- [Tiras níquel 0.1x5x25mm](https://es.aliexpress.com/item/33007254474.html?spm=a2g0o.order_list.order_list_main.15.2646194dvNHbQR&gatewayAdapt=glo2esp)
+- [0.5 KG Tira de níquel puro 0.2x8 mm](https://es.aliexpress.com/item/32919726235.html?spm=a2g0o.order_list.order_list_main.10.2646194dvNHbQR&gatewayAdapt=glo2esp)
+- [1 KG de níquel puro 0.8x28 mm](https://es.aliexpress.com/item/32888169005.html?spm=a2g0o.order_list.order_list_main.5.2646194dvNHbQR&gatewayAdapt=glo2esp)
+- [Rollo de Tira de níquel Puro de 5 Metros 99,96%](https://amzn.eu/d/0dBJseQr)
+
 conCarga: Controla la salida A0 basada en condiciones de voltaje y SOC.
 lecSegundo: Actualiza el conteo de lecturas y mensajes enviados por segundo.
 checkConnectionStatus: Verifica el estado de la conexión y muestra mensajes de error si no hay datos recibidos.
