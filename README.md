@@ -73,11 +73,11 @@ Este proyecto no solo aspira a convertir el Toyota Prius en un modelo más efici
 <img src="Imagenes_Resultados/IMG_3211.JPG" alt="Consumo optimizando" width="300"/>
 Repostado lleno.
 
-### Repostado con 311 Kilómetros
+### Repostado con 3111 Kilómetros
 <img src="Imagenes_Resultados/IMG_3098.JPG" alt="Repostado con 311 Kilometros" width="300"/>
-Ciclo de 160 Kilómetros.
 
-### Resultado de un Ciclo de Conducción
+
+### Resultado de un Ciclo de 160 Kilómetros.
 <img src="Imagenes_Resultados/IMG_2972.JPG" alt="Resultado de un ciclo de conducción" width="300"/>
 
 ### Datos de la Pantalla
@@ -119,5 +119,13 @@ Se abren por DEFECTO en ésta misma ventan, puedes abrirla en una nueva, con la 
 - [GLITTER 801D Soldador por Puntos a Batería con Condensador de Energía de 12 KW](https://amzn.eu/d/0fjSk76k)
 
 ### Otros materiales
+
+[Módulo Pantalla OLED HD, SSD1309, 7 pines, interfaz Serial SPI](https://es.aliexpress.com/item/1005003097088323.html?spm=a2g0o.order_list.order_list_main.186.1b3e194du39PzE&gatewayAdapt=glo2esp)
+[Módulo de pantalla OLED de 2.4 pulgadas 128X64 IIC I2C](https://amzn.eu/d/0biks5XU)
+[2004 Acrylic Shell Soporte pantalla](https://es.aliexpress.com/item/32517589987.html?spm=a2g0o.order_list.order_list_main.201.1b3e194du39PzE&gatewayAdapt=glo2esp)
+[20S BALANCER BT Daly-equilibrador activo inteligente Bms](https://es.aliexpress.com/item/1005004464505967.html?spm=a2g0o.order_list.order_list_main.289.1b3e194du39PzE&gatewayAdapt=glo2esp)
+[84V 12A, EU adaptor Cargador rápido de batería de litio inteligente](https://es.aliexpress.com/item/1005006071316342.html?spm=a2g0o.productlist.main.15.1037d9Qvd9QvLX&algo_pvid=aace258a-533f-4749-98cd-09c339a1cfd3&aem_p4p_detail=2024071114431780522593691300001170184&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=2024071114431780522593691300001170184_2)
+
+
 
 
