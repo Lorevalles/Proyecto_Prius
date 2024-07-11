@@ -117,8 +117,10 @@ Se abren por DEFECTO en ésta misma ventan, puedes abrirla en una nueva, con la 
 - [Rollo de Tira de níquel Puro de 5 Metros 99,96%](https://amzn.eu/d/0dBJseQr)
 - [GLITTER 801D Soldador por Puntos a Batería con Condensador de Energía de 12 KW](https://amzn.eu/d/0fjSk76k)
 - [Succión de vapor de soldadura](https://amzn.eu/d/06UfybG1)
+- [Cámara térmica E02](https://amzn.eu/d/0cpnbMK3)
 - [Estación de Soldadura, Lytool Kit ](https://amzn.eu/d/0gwadudi)
 - [Crimpadora Hidráulica 10T](https://amzn.eu/d/06LqdfpZ)
+- [Alcohol Isopropílico 99,9%](https://amzn.eu/d/04r8kx1u)
 
 ### Otros materiales
 
@@ -133,6 +135,7 @@ Se abren por DEFECTO en ésta misma ventan, puedes abrirla en una nueva, con la 
 - [Arduino Nano A000005](https://amzn.eu/d/0dPSi0jP)
 - [Controlador Nano Micro USB 3,0](https://es.aliexpress.com/item/1005002976480289.html?spm=a2g0o.order_list.order_list_main.509.1b3e194du39PzE&gatewayAdapt=glo2esp)
 - [SN65HVD230 Can Board, CUIDADO hay otro más barato parece igual y sólo recibe](https://amzn.eu/d/016IDlav)
+- [OBD2 ELM327 Lector de código](https://amzn.eu/d/05w8WHYE)
 - [Modulo Relay 5V 1-Canal](https://amzn.eu/d/0ia9llHN)
 - [ADS1115 ADC 16bit 4 Canales](https://amzn.eu/d/0fTRFyMB)
 - [CD74HC4067 CMOS 16 canales 16 CH Digital Multiplexor analógico](https://amzn.eu/d/03TwXtGh)
