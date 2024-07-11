@@ -110,5 +110,5 @@ En ambas versiones, he dispuesto las baterías en módulos de 20S para minimizar
 - <a href="https://amzn.eu/d/0dBJseQr" target="_blank">Rollo de Tira de níquel Puro de 5 Metros 99,96%</a>
 - <a href="https://amzn.eu/d/0fjSk76k" target="_blank">GLITTER 801D Soldador por Puntos a Batería con Condensador de Energía de 12 KW</a>
 - <a href="https://oshwlab.com/lorenzovv/limitador-de-carga-para-bater-as-3" target="_blank">Controlador de carga de baterías</a>
-- <a href="https://oshwlab.com/lorenzovv/alteraci-n-sensor-intensidad-corecci-n" target="_blank">Alterador de la señal analógica de la batería de alto voltaje EV EN LA ÚLTIMA VERSIÓN NO ES NECESARIO. QUEDA PARA EXPERIMENTACIÓN</a>
+- <a href="https://oshwlab.com/lorenzovv/alteraci-n-sensor-intensidad-corecci-n" target="_blank">Alterador de la señal analógica de la batería de alto voltaje EV EN LA ÚLTIMA VERSIÓN YA NO ES NECESARIO.</a>
 - <a href="https://oshwlab.com/lorenzovv/simulacion-de-bateria-prius" target="_blank">Simulador de Presencia de Batería EV</a>
