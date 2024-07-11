@@ -124,6 +124,8 @@ Se abren por DEFECTO en ésta misma ventan, puedes abrirla en una nueva, con la 
 - [2004 Acrylic Shell Soporte pantalla](https://es.aliexpress.com/item/32517589987.html?spm=a2g0o.order_list.order_list_main.201.1b3e194du39PzE&gatewayAdapt=glo2esp)
 - [20S BALANCER BT Daly-equilibrador activo inteligente Bms](https://es.aliexpress.com/item/1005004464505967.html?spm=a2g0o.order_list.order_list_main.289.1b3e194du39PzE&gatewayAdapt=glo2esp)
 - [84V 12A, EU adaptor Cargador rápido de batería de litio inteligente](https://es.aliexpress.com/item/1005006071316342.html?spm=a2g0o.productlist.main.15.1037d9Qvd9QvLX&algo_pvid=aace258a-533f-4749-98cd-09c339a1cfd3&aem_p4p_detail=2024071114431780522593691300001170184&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=2024071114431780522593691300001170184_2)
+- [Arduino Due A000062](https://amzn.eu/d/0692ajdh)
+- [Arduino Nano Every Single Board](https://amzn.eu/d/08zz2bVv)
 
 ### Enlaces de interés
 
