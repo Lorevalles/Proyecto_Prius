@@ -67,7 +67,7 @@ Este proyecto no solo aspira a convertir el Toyota Prius en un modelo más efici
 - Usa temporizadores para gestionar intervalos de actualización y monitoreo.
 - Realiza acciones periódicas como envío de mensajes y actualización de la pantalla.
 
-## Imágenes del Proyecto
+### Imágenes del Proyecto
 
 ### Consumo Optimizado
 <img src="Imagenes_Resultados/IMG_3211.JPG" alt="Consumo optimizando" width="300"/>
@@ -75,7 +75,6 @@ Repostado lleno.
 
 ### Repostado con 3111 Kilómetros
 <img src="Imagenes_Resultados/IMG_3098.JPG" alt="Repostado con 311 Kilometros" width="300"/>
-
 
 ### Resultado de un Ciclo de 160 Kilómetros.
 <img src="Imagenes_Resultados/IMG_2972.JPG" alt="Resultado de un ciclo de conducción" width="300"/>
