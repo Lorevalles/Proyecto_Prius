@@ -102,7 +102,7 @@ En ambas versiones, he dispuesto las baterías en módulos de 20S para minimizar
 ### Enlaces:
 - <a href="mailto:lorenzovv@gmail.com" target="_blank">Baterías recicladas de alta calidad</a>
 - <a href="https://en_espera.com/procedimiento-adaptacion" target="_blank">Procedimiento de adaptación de baterías</a>
-- <a href="https://images.app.goo.gl/rugSroTajMnXxNb58" target="_blank">Medidas de seguridad para la manipulación de baterías</a>
+- <a href="https://github.com/Lorevalles/Proyecto_Prius/blob/main/Seguridad)" target="_blank">Medidas de seguridad para la manipulación de baterías</a>
 - <a href="https://es.aliexpress.com/item/33007254474.html?spm=a2g0o.order_list.order_list_main.15.2646194dvNHbQR&gatewayAdapt=glo2esp" target="_blank">Tiras níquel 0.1x5x25mm</a>
 - <a href="https://es.aliexpress.com/item/32919726235.html?spm=a2g0o.order_list.order_list_main.10.2646194dvNHbQR&gatewayAdapt=glo2esp" target="_blank">0.5 KG Tira de níquel puro 0.2x8 mm</a>
 - <a href="https://es.aliexpress.com/item/32888169005.html?spm=a2g0o.order_list.order_list_main.5.2646194dvNHbQR&gatewayAdapt=glo2esp" target="_blank">1 KG de níquel puro 0.8x28 mm</a>
