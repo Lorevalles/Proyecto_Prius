@@ -127,5 +127,5 @@ Se abren por DEFECTO en ésta misma ventan, puedes abrirla en una nueva, con la 
 
 ### Enlaces de interés
 
-- [[Me apunte aquí ](https://campus.programarfacil.com/#precio)
+- [Y porsupues me apunte aquí ](https://campus.programarfacil.com/#precio)
 
