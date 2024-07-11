@@ -131,9 +131,9 @@ Se abren por DEFECTO en ésta misma ventan, puedes abrirla en una nueva, con la 
 - [Modulo Relay 5V 1-Canal](https://amzn.eu/d/0ia9llHN)
 - [ADS1115 ADC 16bit 4 Canales](https://amzn.eu/d/0fTRFyMB)
 - [CD74HC4067 CMOS 16 canales 16 CH Digital Multiplexor analógico](https://amzn.eu/d/03TwXtGh)
-- 
 
 ### Enlaces de interés
 
 - [Y por supuesto me apunte aquí, una ayuda imprescindible ](https://campus.programarfacil.com/#precio)
+- [Diseño electrónico utilizado](https://easyeda.com)
 
