@@ -122,6 +122,8 @@ Se abren por DEFECTO en ésta misma ventan, puedes abrirla en una nueva, con la 
 - [Crimpadora Hidráulica 10T](https://amzn.eu/d/06LqdfpZ)
 - [Conector ignífugo, 120A DC 1000V](https://es.aliexpress.com/item/1005004140400881.html?spm=a2g0o.order_list.order_list_main.698.1b3e194du39PzE&gatewayAdapt=glo2esp)
 - [Conectores sellado de soldadura AWG26-24](https://es.aliexpress.com/item/1005004001131286.html?spm=a2g0o.order_list.order_list_main.708.1b3e194du39PzE&gatewayAdapt=glo2esp)
+- [Terminales de crimpado de batería](https://es.aliexpress.com/item/33017000828.html?spm=a2g0o.order_detail.order_detail_item.11.3c3139d3ZcZ0WW&gatewayAdapt=glo2esp)
+- [Terminales Extremos de Cables de Batería](https://amzn.eu/d/016ss0Bm)
 - [Alcohol Isopropílico 99,9%](https://amzn.eu/d/04r8kx1u)
 
 ### Otros materiales
