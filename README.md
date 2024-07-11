@@ -107,6 +107,24 @@ Es importante destacar que resulta difícil conseguir siempre los mismos modelos
 Para que tengas una idea, la adaptación de cada una de las tres baterías que he utilizado en la versión V2 ha requerido aproximadamente 180 horas de dedicación. Además, es crucial tener en cuenta el riesgo de cortocircuitos de alta intensidad. Por ello, debes idear un procedimiento adecuado para reducir los riesgos.
 En ambas versiones, he dispuesto las baterías en módulos de 20S para minimizar riesgos y costes de fabricación.
 
+# Lista de Materiales y Enlaces
+
+## Baterías:
+Las baterías utilizadas en este proyecto son unidades recicladas, procedentes de fábricas que las han desechado debido a modificaciones en sus líneas de fabricación. En principio, estas baterías no han sido instaladas nunca en ningún vehículo, por lo que su estado de uso es excelente, prácticamente como nuevas.
+Es importante destacar que resulta difícil conseguir siempre los mismos modelos de baterías, debido a los cambios en las series de fabricación. Si necesitas baterías específicas, por favor envíame un <a href="mailto:lorenzovv@gmail.com" target="_blank">correo electrónico</a> para verificar las que podemos conseguir y las posibilidades de adaptación.
+Para que tengas una idea, la adaptación de cada una de las tres baterías que he utilizado en la versión V2 ha requerido aproximadamente 180 horas de dedicación. Además, es crucial tener en cuenta el riesgo de cortocircuitos de alta intensidad. Por ello, debes idear un procedimiento adecuado para reducir los riesgos.
+En ambas versiones, he dispuesto las baterías en módulos de 20S para minimizar riesgos y costes de fabricación.
+
+## Enlaces:
+- <a href="https://mailto:lorenzovv@gmail.com" target="_blank">Baterías recicladas de alta calidad</a>
+- <a href="https://en_espera.com/procedimiento-adaptacion" target="_blank">Procedimiento de adaptación de baterías</a>
+- <a href="https://images.app.goo.gl/rugSroTajMnXxNb58" target="_blank">Medidas de seguridad para la manipulación de baterías</a>
+- <a href="https://es.aliexpress.com/item/33007254474.html?spm=a2g0o.order_list.order_list_main.15.2646194dvNHbQR&gatewayAdapt=glo2esp" target="_blank">Tiras níquel 0.1x5x25mm</a>
+- <a href="https://es.aliexpress.com/item/32919726235.html?spm=a2g0o.order_list.order_list_main.10.2646194dvNHbQR&gatewayAdapt=glo2esp" target="_blank">0.5 KG Tira de níquel puro 0.2x8 mm</a>
+- <a href="https://es.aliexpress.com/item/32888169005.html?spm=a2g0o.order_list.order_list_main.5.2646194dvNHbQR&gatewayAdapt=glo2esp" target="_blank">1 KG de níquel puro 0.8x28 mm</a>
+- <a href="https://amzn.eu/d/0dBJseQr" target="_blank">Rollo de Tira de níquel Puro de 5 Metros 99,96%</a>
+
+
 ## Enlaces:
 - [Baterías recicladas de alta calidad](mailto:lorenzovv@gmail.com)
 - [Procedimiento de adaptación de baterías](https://en_espera.com/procedimiento-adaptacion)
