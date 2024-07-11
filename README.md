@@ -100,7 +100,8 @@ Es importante destacar que resulta difícil conseguir siempre los mismos modelos
 Para que tengas una idea, la adaptación de cada una de las tres baterías que he utilizado en la versión V2 ha requerido aproximadamente 180 horas de dedicación. Además, es crucial tener en cuenta el riesgo de cortocircuitos de alta intensidad. Por ello, debes idear un procedimiento adecuado para reducir los riesgos.
 En ambas versiones, he dispuesto las baterías en módulos de 20S para minimizar riesgos y costes de fabricación.
 
-### Enlaces
+### Enlaces 
+Se abren por DEFECTO en ésta misma ventan, puedes abrirla en una nueva, con la oreja derecha del ratón.
 - [Baterías recicladas de alta calidad](mailto:lorenzovv@gmail.com)
 - [Procedimiento de adaptación de baterías](https://en_espera.com/procedimiento-adaptacion)
 - [Medidas de seguridad para la manipulación de baterías](https://github.com/Lorevalles/Proyecto_Prius/blob/main/Seguridad.md)
