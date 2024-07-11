@@ -116,6 +116,9 @@ Se abren por DEFECTO en ésta misma ventan, puedes abrirla en una nueva, con la 
 - [1 KG de níquel puro 0.8x28 mm](https://es.aliexpress.com/item/32888169005.html?spm=a2g0o.order_list.order_list_main.5.2646194dvNHbQR&gatewayAdapt=glo2esp)
 - [Rollo de Tira de níquel Puro de 5 Metros 99,96%](https://amzn.eu/d/0dBJseQr)
 - [GLITTER 801D Soldador por Puntos a Batería con Condensador de Energía de 12 KW](https://amzn.eu/d/0fjSk76k)
+- [Succión de vapor de soldadura](https://amzn.eu/d/06UfybG1)
+- [Estación de Soldadura, Lytool Kit ](https://amzn.eu/d/0gwadudi)
+- [Crimpadora Hidráulica 10T](https://amzn.eu/d/06LqdfpZ)
 
 ### Otros materiales
 
