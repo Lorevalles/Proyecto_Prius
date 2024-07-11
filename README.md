@@ -1,4 +1,5 @@
 # Proyecto Prius: Conversión a Híbrido Enchufable
+<img src="Imagenes_Resultados/Prius_Gen2_2025.JPG" alt="Prius Gen2 2025"/>
 
 ## Introducción
 Este proyecto busca transformar un Toyota Prius en un vehículo híbrido enchufable mediante pruebas de laboratorio y modificaciones técnicas específicas.
