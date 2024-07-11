@@ -120,6 +120,8 @@ Se abren por DEFECTO en ésta misma ventan, puedes abrirla en una nueva, con la 
 - [Cámara térmica E02](https://amzn.eu/d/0cpnbMK3)
 - [Estación de Soldadura, Lytool Kit ](https://amzn.eu/d/0gwadudi)
 - [Crimpadora Hidráulica 10T](https://amzn.eu/d/06LqdfpZ)
+- [Conector ignífugo, 120A DC 1000V](https://es.aliexpress.com/item/1005004140400881.html?spm=a2g0o.order_list.order_list_main.698.1b3e194du39PzE&gatewayAdapt=glo2esp)
+- [Conectores sellado de soldadura AWG26-24](https://es.aliexpress.com/item/1005004001131286.html?spm=a2g0o.order_list.order_list_main.708.1b3e194du39PzE&gatewayAdapt=glo2esp)
 - [Alcohol Isopropílico 99,9%](https://amzn.eu/d/04r8kx1u)
 
 ### Otros materiales
@@ -139,6 +141,7 @@ Se abren por DEFECTO en ésta misma ventan, puedes abrirla en una nueva, con la 
 - [Modulo Relay 5V 1-Canal](https://amzn.eu/d/0ia9llHN)
 - [ADS1115 ADC 16bit 4 Canales](https://amzn.eu/d/0fTRFyMB)
 - [CD74HC4067 CMOS 16 canales 16 CH Digital Multiplexor analógico](https://amzn.eu/d/03TwXtGh)
+- [Conector de Panel de enchufe de aviación](https://es.aliexpress.com/item/1005004550846283.html?spm=a2g0o.order_list.order_list_main.599.1b3e194du39PzE&gatewayAdapt=glo2esp)
 
 ### Enlaces de interés
 
