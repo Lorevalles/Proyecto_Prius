@@ -122,6 +122,7 @@ Se abren por DEFECTO en ésta misma ventan, puedes abrirla en una nueva, con la 
 - [Conector ignífugo, 120A DC 1000V](https://es.aliexpress.com/item/1005004140400881.html?spm=a2g0o.order_list.order_list_main.698.1b3e194du39PzE&gatewayAdapt=glo2esp)
 - [Cable de silicona alta temperatura 8AWG](https://amzn.eu/d/00wWIAyn)
 - [Cable de silicona 6AWG para batería de coche eléctrico](https://es.aliexpress.com/item/1005004309348534.html?spm=a2g0o.order_list.order_list_main.858.1b3e194du39PzE&gatewayAdapt=glo2esp)
+- [Cable AVSS de 10/50/100m para coche](https://es.aliexpress.com/item/1005005826825171.html?spm=a2g0o.order_list.order_list_main.878.1b3e194du39PzE&gatewayAdapt=glo2esp)
 - [Conectores sellado de soldadura AWG26-24](https://es.aliexpress.com/item/1005004001131286.html?spm=a2g0o.order_list.order_list_main.708.1b3e194du39PzE&gatewayAdapt=glo2esp)
 - [Terminales de conexión termorretráctiless oldadura impermeable](https://es.aliexpress.com/item/1005001379903443.html?spm=a2g0o.order_list.order_list_main.773.1b3e194du39PzE&gatewayAdapt=glo2esp)
 - [Terminales de crimpado de batería](https://es.aliexpress.com/item/33017000828.html?spm=a2g0o.order_detail.order_detail_item.11.3c3139d3ZcZ0WW&gatewayAdapt=glo2esp)
