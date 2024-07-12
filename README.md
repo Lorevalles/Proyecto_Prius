@@ -71,7 +71,6 @@ Este proyecto no solo aspira a convertir el Toyota Prius en un modelo más efici
 
 ### Consumo Optimizado
 <img src="Imagenes_Resultados/IMG_3211.JPG" alt="Consumo optimizando" width="300"/>
-Repostado lleno.
 
 ### Repostado con 3111 Kilómetros
 <img src="Imagenes_Resultados/IMG_3098.JPG" alt="Repostado con 311 Kilometros" width="300"/>
