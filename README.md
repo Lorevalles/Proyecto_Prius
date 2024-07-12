@@ -91,9 +91,9 @@ Este proyecto no solo aspira a convertir el Toyota Prius en un modelo más efici
 9. **RM:** Revoluciones del motor.
 
 ### Circuitos electrónicos
-- [Controlador de carga de baterías](https://oshwlab.com/lorenzovv/limitador-de-carga-para-bater-as-3)
-- [Alterador de la señal analógica de la batería de alto voltaje EV EN LA ÚLTIMA VERSIÓN YA NO ES NECESARIO.](https://oshwlab.com/lorenzovv/alteraci-n-sensor-intensidad-corecci-n)
-- [Simulador de Presencia de Batería EV](https://oshwlab.com/lorenzovv/simulacion-de-bateria-prius)
+- [Controlador carga de baterías](https://oshwlab.com/lorenzovv/limitador-de-carga-para-bater-as-3)
+- [Alterador de la señal analógica para batería de alto voltaje EV EN LA ÚLTIMA VERSIÓN YA NO ES NECESARIO.](https://oshwlab.com/lorenzovv/alteraci-n-sensor-intensidad-corecci-n)
+- [Simulador de presencia Batería EV](https://oshwlab.com/lorenzovv/simulacion-de-bateria-prius)
 - [Cableado Arduino Due](https://github.com/Lorevalles/Proyecto_Prius/blob/main/due_can_SSD1309_SN65HVD230_001/Cableado_Arduino_Due.PNG)
   
 ## Lista de Materiales y Enlaces
