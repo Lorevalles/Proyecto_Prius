@@ -76,7 +76,7 @@ Repostado lleno.
 ### Repostado con 3111 Kilómetros
 <img src="Imagenes_Resultados/IMG_3098.JPG" alt="Repostado con 311 Kilometros" width="300"/>
 
-### Resultado de un Ciclo de 160 Kilómetros.
+### Energía eléctrica en 160 Kilómetros.
 <img src="Imagenes_Resultados/IMG_2972.JPG" alt="Resultado de un ciclo de conducción" width="300"/>
 
 ### Datos de la Pantalla
