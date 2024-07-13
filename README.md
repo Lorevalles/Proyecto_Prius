@@ -3,7 +3,7 @@
 
 ## Introducción
 Este proyecto busca transformar un Toyota Prius en un vehículo híbrido enchufable mediante pruebas de laboratorio y modificaciones técnicas específicas.
- - [Para reducir la huella ambiental, se puede utilizar un sistema de carga solar](https://github.com/Lorevalles/Cargador_Solar#proyecto-prius-estaci%C3%B3n-de-carga-solar)
+ - [Para reducir la huella ambiental, es posible crear un sistema de carga solar](https://github.com/Lorevalles/Cargador_Solar#proyecto-prius-estaci%C3%B3n-de-carga-solar)
 
 ## Modificaciones y Procedimientos
 
