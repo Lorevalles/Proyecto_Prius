@@ -1,5 +1,5 @@
 # Proyecto Prius: Conversión a Híbrido Enchufable 
-- [Con sistema de carga solar](https://github.com/Lorevalles/Cargador_Solar#proyecto-prius-estaci%C3%B3n-de-carga-solar)
+- **[Con sistema de carga solar](https://github.com/Lorevalles/Cargador_Solar#proyecto-prius-estaci%C3%B3n-de-carga-solar)
 <img src="Imagenes_Resultados/Prius_Gen2_2025.JPG" alt="Prius Gen2 2025"/>
 
 ## Introducción
