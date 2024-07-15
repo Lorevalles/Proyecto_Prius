@@ -1,0 +1,38 @@
+title: Proyecto Prius: Conversión a Híbrido Enchufable
+description: Este proyecto consiste en la implementación de una estación de carga solar para un Toyota Prius convertido en híbrido enchufable, utilizando paneles solares y baterías de respaldo para suministrar energía limpia y renovable.
+keywords: 
+  - híbrido enchufable
+  - Toyota Prius
+  - energía solar
+  - conversión de vehículos
+  - baterías de litio
+  - estación de carga solar
+  - paneles solares
+  - sistemas de energía renovable
+  - cargadores solares
+  - modificación de vehículos
+  - tecnología limpia
+  - sostenibilidad
+author: Lorenzo Valles Vila
+url: "https://github.com/Lorevalles/Proyecto_Prius"
+baseurl: "/"
+twitter_username: "LorenzoValles"
+github_username: "Lorevalles"
+theme: jekyll-theme-minimal
+
+# SEO and Social Sharing
+seo:
+  type: "website"
+  title: "Proyecto Prius: Conversión a Híbrido Enchufable"
+  description: "Implementación de una estación de carga solar para un Toyota Prius convertido en híbrido enchufable, utilizando energía limpia y renovable."
+  image: "/assets/images/Proyecto_Prius.jpg"
+  twitter:
+    card: "summary_large_image"
+    site: "@LorenzoValles"
+    creator: "@LorenzoValles"
+  og:
+    type: "website"
+    title: "Proyecto Prius: Conversión a Híbrido Enchufable"
+    description: "Implementación de una estación de carga solar para un Toyota Prius convertido en híbrido enchufable, utilizando energía limpia y renovable."
+    image: "/assets/images/Proyecto_Prius.jpg"
+    url: "https://github.com/Lorevalles/Proyecto_Prius"
